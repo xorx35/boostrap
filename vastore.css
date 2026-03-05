@@ -1,5 +1,5 @@
 /* * =========================================================
- * TEMA KUSTOM BERKELAS - JURAGAN GHS
+ * TEMA KUSTOM BERKELAS - VSEC ADVANCE
  * Desain bergaya Premium SaaS (Software as a Service)
  * =========================================================
  */
@@ -18,8 +18,8 @@
     --bs-primary: #4f46e5;
     --bs-primary-rgb: 79, 70, 229;
     
-    /* Warna Latar Belakang & Teks */
-    --bs-body-bg: #f8fafc;
+    /* Warna Latar Belakang & Teks (DIUBAH KE SOFT INDIGO) */
+    --bs-body-bg: #e0e7ff; 
     --bs-body-color: #334155;
     
     /* Radius Lengkungan yang Lebar */
@@ -128,12 +128,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
  * BADGE / LABEL HARGA
  * -------------------------------------- */
 .badge {
-    padding: 0.5em 0.8em !important;
-    font-weight: 700 !important;
-    border-radius: 8px !important;
-}
-.bg-primary {
-    background-color: #4f46e5 !important;
+    padding: 0.5em 0.8em;
+    font-weight: 700;
+    border-radius: 8px;
 }
 
 /* Perbaikan khusus untuk foto profil bulat di Webkus */
